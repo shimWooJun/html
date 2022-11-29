@@ -37,16 +37,11 @@
     
 }
 .post_bg{
-<<<<<<< HEAD
-=======
-    background-image: url('#');
->>>>>>> 443759a84c55bb56158cb5aa9dad05e423c37317
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-image:url("image/ddd.jpg");
     width:100%;
-<<<<<<< HEAD
     height:220px;
 }
 
@@ -73,13 +68,3 @@
   .cd1 {
     margin-left: 320px;
   }
-=======
-    height:200px;
-}
-
-.chart {
-    margin-right: 1500px;
-    height: 768px;
-    background: red;
-}
->>>>>>> 443759a84c55bb56158cb5aa9dad05e423c37317
