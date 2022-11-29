@@ -13,18 +13,40 @@ h1{
 }
 .contents1{
     font-size: 20px;
-    font-weight: lighter;
+    font-weight: bold;
+    color:rgb(169, 175, 249);
 }
 
 .result{
     font-size: 24px;
+    font-weight: bold;
+    color:rgb(169, 175, 249);
 }
 
 .intro_bg{
-    background-image:url("image/flash-4244923_1920-1.png");
+    background-image: url('#');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    background-image:url("image/bbb.jpg");
     width:100%;
     height:718px;
 }
+
+.face{
+    background-image: url('#');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image:url("image/face.jpg");
+    margin-right: 1600px;
+    margin-left: 100px;
+    height: 220px;
+    border-radius: 20%;
+    box-shadow: 0px 0px 10px black;
+}
+
 
 .header{
     display:flex;
@@ -47,7 +69,8 @@ h1{
     margin-left: 86px;
 }
 .nav > li > a{
-    color: #ffff;
+    color: rgb(218, 218, 128);
+    font-weight: bold;
 }
 
 .amount{
@@ -55,8 +78,8 @@ h1{
     top: -66px;
     display: flex;
     width: 1280px;
-    background: #ffff;
-    box-shadow: 0px 0px 10px black;
+    background: rgb(252, 248, 177);
+    box-shadow: 0px 0px 15px black;
     margin: auto;
 
 }
@@ -78,7 +101,7 @@ h1{
 
 .intro_text{
     width: 100%;
-    margin:231px auto 231px auto;
+    margin:35px auto 231px auto;
     text-align: center;
 }
 
@@ -86,5 +109,10 @@ h1{
 
 .intro_text > h1,
 .intro_text > h4{
-    color: #ffff;
+    margin-left: 80px;
+    margin-right: 1586px;
+    text-align: center;
+    color: rgb(218, 218, 128);
+    font-size: 20px;
+    font-weight: bold;
 }
