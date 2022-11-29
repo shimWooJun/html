@@ -55,6 +55,10 @@
     overflow: auto;
     position: fixed;
   }
+
+  .side > li > a{
+    font-weight: bold;
+  }
   
  li a {
     text-align: center;
