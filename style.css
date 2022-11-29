@@ -40,6 +40,7 @@ h1{
     background-position: center;
     background-size: cover;
     background-image:url("image/face.jpg");
+    margin-top: 20px;
     margin-right: 1600px;
     margin-left: 100px;
     height: 220px;
@@ -113,7 +114,7 @@ h1{
 
 .intro_text > h1,
 .intro_text > h4{
-    margin-left: 80px;
+    margin-left: 85px;
     margin-right: 1586px;
     text-align: center;
     color: rgb(218, 218, 128);
