@@ -12,7 +12,6 @@
     width: 1280px;
     margin: auto;
     height: 86px;
-
 }
 
 .nav{
@@ -23,7 +22,6 @@
     line-height: 86px;
     width:880px ;
     color: rgb(255, 255, 255);
-
 }
 
 .nav > li {
@@ -34,9 +32,8 @@
     color: rgb(244, 161, 113);
     font-size: 35px;
     font-weight: bold;
-
-    
 }
+
 .post_bg{
     background-repeat: no-repeat;
     background-position: center;
@@ -53,7 +50,7 @@
     background-position: center;
     background-size: cover;
     width: 100%;
-    background-image:url("image/ggg.jpg");
+    background-image:url("image/bb.jpg");
     height: 100%;
     overflow: auto;
     position: fixed
